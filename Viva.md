@@ -140,3 +140,10 @@ Can you tell me about ethics in data mining ?
 Define decision support system ?
 
 How data mining is used in retail industry ?
+The retail industry is realizing  the possibilities of advantages by using data mining.A rich source is provided by the retail industry for data mining.In Retail industry,data mining can be used for multidimensional analysis of sales,customers and product.It can be helpfulin customer retention,the effectiveness of sales campaign may be analysed.Some examples of data mining are:
+1.Performing market basket analysis-Finding which items customers buy together.This can be helful in layout startegies inside store and stocking.
+2.Sales forecasting-Retailers can make stocking decisions by exploring time base patterns.
+3.Database marketing-Customer profiles with certain behaviours can be developed and used for cost effective promotions.
+4.Merchandise planning and allocation-Merxhandise planning and allocation for new retail stores can be improved by exploring patterns in stores with similar demographic characteristics.
+5.Risk managment-Can be used to find products which may not suitable for competitetive offers,to target those customers who are most like to buy certain product.
+6.Fraud detection
